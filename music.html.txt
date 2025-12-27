@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Portfolio</title>
+    <link rel="stylesheet" href="music.css">
+</head>
+<body>
+
+<div class="music-container">
+
+    <h1>🎧 My Music Port</h1>
+    <p class="subtitle">Favourite Songs Collection</p>
+
+    <div class="player-card">
+        <img src="https://via.placeholder.com/250" alt="Album Cover">
+
+        <h2>Song Title</h2>
+        <p class="artist">Artist Name</p>
+
+        <div class="controls">
+            <button>⏮</button>
+            <button class="play">▶</button>
+            <button>⏭</button>
+        </div>
+    </div>
+
+    <div class="playlist">
+        <h3>Playlist</h3>
+        <ul>
+            <li>🎵 Song One</li>
+            <li>🎵 Song Two</li>
+            <li>🎵 Song Three</li>
+            <li>🎵 Song Four</li>
+        </ul>
+    </div>
+
+</div>
+
+</body>
+</html>
